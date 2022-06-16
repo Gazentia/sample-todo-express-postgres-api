@@ -1,4 +1,4 @@
-# Sample Todo Express Sequelize API
+# Sample Todo Express Postgres API
 
 ## Prerequisites
 
