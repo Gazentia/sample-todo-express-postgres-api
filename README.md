@@ -19,6 +19,23 @@ and then run this script
 Runs the api in the development mode.\
 You can access the api at [http://localhost:3000](http://localhost:3000)
 
+## Routes
+All HTTP methods are supported
+
+* Todo
+    * `GET`	/todos
+    * `GET`	/todos/1
+    * `POST`	/todos
+    * `PUT`	/todos/1
+    * `DELETE`	/todos/1
+
+* User
+    * `GET`	/users
+    * `GET`	/users/1
+    * `POST`	/users
+    * `PUT`	/users/1
+    * `DELETE`	/users/1
+
 ## Dependencies
 * [Sequelize](https://sequelize.org/)
 * [pg](https://www.npmjs.com/package/pg)
